@@ -1,0 +1,6 @@
+{
+  "splithero": {
+    "component": "SplitHero",
+    "composition": "children"
+  }
+}
